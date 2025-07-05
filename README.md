@@ -2,12 +2,11 @@
 
 ## Repository Outline
 1. README.md: Berisi gambaran umum dan penjelasan proyek.
-2. P1M2_Sesilia_Virdha.ipynb: Notebook utama yang berisi seluruh kode untuk tahapan machine learning, mulai dari pra-pemrosesan data, eksplorasi data, pelatihan model, evaluasi, hingga hyperparameter tuning.
-3. P1M2_Sesilia_Virdha_conceptual.txt: File yang berisi jawaban dari pertanyaan-pertanyaan konseptual terkait proyek.
-4. P1M2_Sesilia_Virdha_inf.ipynb: File notebook untuk menjalankan inference atau prediksi menggunakan model terbaik yang telah dilatih.
-5. model_best.pkl: File yang menyimpan model machine learning terbaik dalam format pickle, siap untuk digunakan dalam inference atau deployment.
-6. Deployment/: Folder yang berisi semua file yang diperlukan untuk proses deployment model (misalnya app.py untuk aplikasi web, requirements.txt untuk dependensi, dll.).
-7. amsterdam_airbnb.csv: File dataset yang digunakan dalam proyek machine learning ini.
+2. Sesilia_Virdha.ipynb: Notebook utama yang berisi seluruh kode untuk tahapan machine learning, mulai dari pra-pemrosesan data, eksplorasi data, pelatihan model, evaluasi, hingga hyperparameter tuning.
+3. Sesilia_Virdha_inf.ipynb: File notebook untuk menjalankan inference atau prediksi menggunakan model terbaik yang telah dilatih.
+4. model_best.pkl: File yang menyimpan model machine learning terbaik dalam format pickle, siap untuk digunakan dalam inference atau deployment.
+5. Deployment/: Folder yang berisi semua file yang diperlukan untuk proses deployment model (misalnya app.py untuk aplikasi web, requirements.txt untuk dependensi, dll.).
+6. amsterdam_airbnb.csv: File dataset yang digunakan dalam proyek machine learning ini.
 
 ## Problem Background
 Airbnb telah menjadi salah satu platform penyewaan akomodasi paling populer di dunia, termasuk di kota-kota besar seperti Amsterdam. Dengan banyaknya pilihan listing yang tersedia dari segi lokasi, tipe kamar, kapasitas tamu, hingga kualitas pelayanan dan penentuan harga sewa yang tepat menjadi hal yang krusial baik bagi pemilik properti maupun calon penyewa.
