@@ -31,4 +31,5 @@ Proyek ini akan menerapkan model machine learning regresi menggunakan lima algor
 
 ## Reference
 dataset = https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities/data
+
 deployment = https://huggingface.co/spaces/sesiliavk/Milestone2
