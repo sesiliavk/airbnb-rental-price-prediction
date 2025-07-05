@@ -1,4 +1,4 @@
-# Judul Project
+# Airbnb Rental Price Prediction in Amsterdam 
 
 ## Repository Outline
 1. README.md: Berisi gambaran umum dan penjelasan proyek.
